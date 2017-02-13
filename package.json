@@ -1,0 +1,16 @@
+{
+  "name": "tickTock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tickTock.ts",
+  "scripts": {},
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Joanna Graber",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^6.0.45",
+    "readline": "^1.3.0"
+  }
+}
